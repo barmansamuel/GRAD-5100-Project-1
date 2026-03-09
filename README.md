@@ -192,6 +192,9 @@ The assistant will generate:
 
 <img width="759" height="866" alt="image" src="https://github.com/user-attachments/assets/d694ccd2-7418-44fa-8911-dd0ff6264b1b" />
 
+<img width="729" height="778" alt="image" src="https://github.com/user-attachments/assets/ba621e2a-3f0e-416d-be29-57341c8391f9" />
+
+
 ---
 
 # 🌐 Data Sources
