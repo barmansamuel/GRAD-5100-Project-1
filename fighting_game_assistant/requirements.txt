@@ -1,6 +1,14 @@
 streamlit
 langchain
 langchain-openai
-langchain_core.prompts
+langchain-core
 python-dotenv
 pydantic
+openai
+langchain-community
+requests
+beautifulsoup4
+lxml
+ollama
+rapidfuzz
+faiss-cpu
